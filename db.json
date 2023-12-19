@@ -1,0 +1,320 @@
+{
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Matt Brandon",
+        "skill": "Freelancer",
+        "desc": "Lorem ipsum dolor sit amet  excepturi sequi voluptates eos at reprehenderit, voluptate sed fugiat! Eaque ducimus omnis nam nisi quibusdam magnam ab libero, cum molestiae? Quisquam culpa explicabo minus laudantium dolore praesentium iusto?",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/testimonials/testimonials-4.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Saul Goodman",
+        "skill": "Designer",
+        "desc": "Lorem ipsum dolor sit amet  excepturi sequi voluptates eos at reprehenderit, voluptate sed fugiat! Eaque ducimus omnis nam nisi quibusdam magnam ab libero, cum molestiae? Quisquam culpa explicabo minus laudantium dolore praesentium iusto?",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/testimonials/testimonials-1.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Jena Karlis",
+        "skill": "Ceo & Founder",
+        "desc": "Lorem ipsum dolor sit amet  excepturi sequi voluptates eos at reprehenderit, voluptate sed fugiat! Eaque ducimus omnis nam nisi quibusdam magnam ab libero, cum molestiae? Quisquam culpa explicabo minus laudantium dolore praesentium iusto?",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/testimonials/testimonials-3.jpg"
+      }
+    ],
+    "team": [
+      {
+        "id": 2,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-2.jpg",
+        "name": "Sarah Jhonson",
+        "skill": "Product Manager"
+      },
+      {
+        "id": 3,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-3.jpg",
+        "name": "William Andersone",
+        "skill": "CTO"
+      },
+      {
+        "id": 4,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-4.jpg",
+        "name": "Amanda Jepson",
+        "skill": "Accountant"
+      },
+      {
+        "id": 1,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/team/team-1.jpg",
+        "name": "Walter White",
+        "skill": "Chief Executive Officer"
+      }
+    ],
+    "about": [
+      {
+        "id": 1,
+        "title": "Corporis voluptates sit",
+        "desc": "Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip",
+        "image": "https://icons.getbootstrap.com/assets/icons/card-checklist.svg"
+      },
+      {
+        "id": 2,
+        "title": "Ullamco laboris nisi",
+        "desc": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt",
+        "image": "https://icons.getbootstrap.com/assets/icons/box.svg"
+      },
+      {
+        "id": 3,
+        "title": "Labore consequatur",
+        "desc": "Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere",
+        "image": "https://icons.getbootstrap.com/assets/icons/card-checklist.svg"
+      },
+      {
+        "id": 4,
+        "title": "Beatae veritatis",
+        "desc": "Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta",
+        "image": "https://icons.getbootstrap.com/assets/icons/shield.svg"
+      }
+    ],
+    "clinets": [
+      {
+        "id": 1,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/clients/client-1.png"
+      },
+      {
+        "id": 2,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/clients/client-2.png"
+      },
+      {
+        "id": 3,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/clients/client-3.png"
+      },
+      {
+        "id": 4,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/clients/client-4.png"
+      },
+      {
+        "id": 5,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/clients/client-5.png"
+      },
+      {
+        "id": 6,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/clients/client-6.png"
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "title": "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "explain": " Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Ullam est qui quos consequatur eos accusamus.",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/features-1.png"
+      },
+      {
+        "id": 2,
+        "title": "Corporis temporibus maiores provident",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "explain": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/features-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas",
+        "desc": "Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.",
+        "explain": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/features-3.png"
+      },
+      {
+        "id": 4,
+        "title": "Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "explain": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/features-4.png"
+      }
+    ],
+    "featuresCard": [
+      {
+        "id": 1,
+        "cardTitle": "Lorem Ipsum",
+        "cardNumber": "01",
+        "cardDesc": "Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat"
+      },
+      {
+        "id": 2,
+        "cardTitle": "Repellat Nihil",
+        "cardNumber": "02",
+        "cardDesc": "Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest"
+      },
+      {
+        "id": 3,
+        "cardTitle": "Ad ad velit qui",
+        "cardNumber": "03",
+        "cardDesc": "Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis"
+      },
+      {
+        "id": 4,
+        "cardTitle": "Repellendus molestiae",
+        "cardNumber": "04",
+        "cardDesc": "Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa"
+      },
+      {
+        "id": 5,
+        "cardTitle": "Sapiente Magnam",
+        "cardNumber": "05",
+        "cardDesc": "Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam"
+      },
+      {
+        "id": 6,
+        "cardTitle": "Facilis Impedit",
+        "cardNumber": "06",
+        "cardDesc": "Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi"
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "image": "https://icons.getbootstrap.com/assets/icons/globe2.svg",
+        "title": "Lorem Ipsum",
+        "desc": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi"
+      },
+      {
+        "id": 2,
+        "image": "https://icons.getbootstrap.com/assets/icons/card-list.svg",
+        "title": "Sed ut perspiciatis",
+        "desc": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore"
+      },
+      {
+        "id": 3,
+        "image": "https://icons.getbootstrap.com/assets/icons/clock-history.svg",
+        "title": "Magni Dolores",
+        "desc": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia"
+      },
+      {
+        "id": 4,
+        "image": "https://icons.getbootstrap.com/assets/icons/database-fill.svg",
+        "title": "Nemo Enim",
+        "desc": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis"
+      }
+    ],
+    "portfolioAll": [
+      {
+        "id": 1,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-6.jpg"
+      },
+      {
+        "id": 5,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-4.jpg"
+      },
+      {
+        "id": 7,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-7.jpg"
+      },
+      {
+        "id": 8,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-8.jpg"
+      },
+      {
+        "id": 9,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-9.jpg"
+      }
+    ],
+    "portfolioWeb": [
+      {
+        "id": 1,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-6.jpg"
+      }
+    ],
+    "portfolioCard": [
+      {
+        "id": 5,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-4.jpg"
+      },
+      {
+        "id": 7,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-7.jpg"
+      }
+    ],
+    "portfolioApp": [
+      {
+        "id": 8,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-8.jpg"
+      },
+      {
+        "id": 9,
+        "image": "https://bootstrapmade.com/demo/templates/Bikin/assets/img/portfolio/portfolio-9.jpg"
+      }
+    ],
+    "messages": [
+      {
+        "name": "mohammad",
+        "lastname": "teymouri",
+        "subject": "view",
+        "message": "that,s is great",
+        "id": 1
+      },
+      {
+        "name": "hossein",
+        "lastname": "hosseini",
+        "subject": "react",
+        "message": "you must try it",
+        "id": 2
+      },
+      {
+        "name": "mohammad",
+        "lastname": "teymouri",
+        "subject": "view",
+        "message": "dfdfdsf",
+        "id": 3
+      },
+      {
+        "name": "dffdf",
+        "lastname": "fdfs",
+        "subject": "dfsfs",
+        "message": "sfdfsdf",
+        "id": 4
+      },
+      {
+        "name": "dlkjfkjskdj",
+        "lastname": "hdfjhshds",
+        "subject": "dfsdf",
+        "message": "dfsd",
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      }
+    ]
+  }
